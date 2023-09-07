@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sheakrohim413
+- 👋 Hi, I’m @sheakrohim413.
 - 👀 I’m interested in  openai
 - 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on MERN stack projects
